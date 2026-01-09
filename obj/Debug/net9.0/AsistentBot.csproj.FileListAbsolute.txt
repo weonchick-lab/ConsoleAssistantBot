@@ -1,0 +1,14 @@
+D:\Юніті\Vs code проекти\AsistentBot\bin\Debug\net9.0\AsistentBot.exe
+D:\Юніті\Vs code проекти\AsistentBot\bin\Debug\net9.0\AsistentBot.deps.json
+D:\Юніті\Vs code проекти\AsistentBot\bin\Debug\net9.0\AsistentBot.runtimeconfig.json
+D:\Юніті\Vs code проекти\AsistentBot\bin\Debug\net9.0\AsistentBot.dll
+D:\Юніті\Vs code проекти\AsistentBot\bin\Debug\net9.0\AsistentBot.pdb
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\AsistentBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\AsistentBot.AssemblyInfoInputs.cache
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\AsistentBot.AssemblyInfo.cs
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\AsistentBot.csproj.CoreCompileInputs.cache
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\AsistentBot.dll
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\refint\AsistentBot.dll
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\AsistentBot.pdb
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\AsistentBot.genruntimeconfig.cache
+D:\Юніті\Vs code проекти\AsistentBot\obj\Debug\net9.0\ref\AsistentBot.dll
